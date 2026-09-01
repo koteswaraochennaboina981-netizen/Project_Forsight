@@ -1,0 +1,16 @@
+metric,value
+sku_store_combinations,1471.0
+total_stock_on_hand,42828.0
+total_forecast_demand,20972.237966078366
+total_recommended_order_quantity,20817.0
+total_inventory_cost_value,18386129.880000003
+total_inventory_retail_value,26888696.839999996
+total_estimated_replenishment_cost,8359007.880000001
+stockout_risk_count,1278.0
+critical_inventory_count,11.0
+reorder_inventory_count,25.0
+at_risk_inventory_count,0.0
+healthy_inventory_count,1.0
+overstock_inventory_count,192.0
+high_priority_replenishment_count,36.0
+urgent_replenishment_count,1242.0

@@ -1,0 +1,9 @@
+dataset,rows,columns
+Sales,10002,7
+SKU Master,5000,7
+Calendar,304,6
+Inventory,26408,6
+Store Master,30,5
+Promotions,100,8
+Customer Master,10000,7
+Inventory Flags,600,6

@@ -1,0 +1,17 @@
+section,metric,value
+DATA,forecast_start_date,2025-09-16
+DATA,forecast_end_date,2025-10-31
+DATA,sku_store_combinations,1471
+INVENTORY,total_stock_on_hand,42828.0
+INVENTORY,total_forecast_demand,20972.237966078366
+INVENTORY,total_recommended_order_quantity,20817
+INVENTORY,total_inventory_cost_value,18386129.880000003
+INVENTORY,total_estimated_replenishment_cost,8359007.880000001
+RISK,stockout_count,1242
+RISK,critical_count,11
+RISK,reorder_count,25
+RISK,overstock_count,192
+PRIORITY,urgent_count,1242
+PRIORITY,high_count,36
+PRIORITY,medium_count,0
+PRIORITY,low_count,0

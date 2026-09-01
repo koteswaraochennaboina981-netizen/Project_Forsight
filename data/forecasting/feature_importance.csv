@@ -1,0 +1,180 @@
+feature,importance
+numeric__revenue,0.8808840412865087
+numeric__unit_price,0.1160067075015918
+numeric__brand_total_units,0.0004201466040368386
+numeric__category_avg_units,0.00019528098956754847
+numeric__store_avg_revenue,0.00017520614908702345
+numeric__brand_avg_units,0.00015764583290696525
+numeric__store_avg_units,0.00014305403266567956
+numeric__brand_total_revenue,0.00012465900181486244
+numeric__category_total_revenue,0.00010459099683042631
+numeric__day_of_month,9.777644965427964e-05
+numeric__day,9.767829424991046e-05
+numeric__sku_total_units,9.728771702949487e-05
+numeric__day_of_week,9.519514617291356e-05
+numeric__sku_avg_units,9.113527266909373e-05
+numeric__store_total_units,8.9949454784218e-05
+numeric__sku_total_revenue,8.985562742567635e-05
+numeric__week,8.80739711675658e-05
+numeric__category_total_units,8.758081689084384e-05
+numeric__sku_avg_revenue,8.483080920891584e-05
+numeric__store_total_revenue,7.723876443816284e-05
+numeric__week_of_year,6.780662461122012e-05
+numeric__promo_event,4.667664490046302e-05
+numeric__promo_flag,3.445186322234978e-05
+numeric__month,3.278009039578795e-05
+categorical__category_Health & Wellness,3.1894306232895694e-05
+categorical__category_Personal Care,3.094799053412316e-05
+numeric__month_num,3.0563149729646235e-05
+categorical__season_Spring,3.0331188505987534e-05
+categorical__store_type_Convenience Store,2.8785622637772795e-05
+numeric__is_weekend,2.8665112535285253e-05
+numeric__slow_mover_flag,2.8592283320594033e-05
+numeric__stock_on_hand,2.499657179572607e-05
+categorical__store_type_Supermarket,2.0713299918146806e-05
+numeric__stock_vs_safety,1.9707373173450555e-05
+categorical__store_type_Hypermarket,1.8473330449305117e-05
+numeric__stock_vs_reorder,1.7307041143748018e-05
+categorical__city_Karachi,1.5699186404448026e-05
+categorical__category_Stationery & Office,1.5459740496079438e-05
+numeric__reorder_point,1.5182594898878195e-05
+numeric__safety_stock,1.4776905425693217e-05
+categorical__city_Islamabad,1.3454026541849753e-05
+categorical__brand_DailyBest,1.212314665295146e-05
+numeric__flag_count,1.1870486023013796e-05
+categorical__city_Multan,1.1792433053328802e-05
+categorical__season_Summer,1.1496675457578372e-05
+categorical__city_Sukkur,1.0708535939785715e-05
+numeric__quarter,1.0282996440547594e-05
+categorical__city_Quetta,8.099516887723791e-06
+categorical__category_Frozen Foods,6.856664121109078e-06
+categorical__brand_HomeStyle,6.151650887478066e-06
+categorical__store_name_Multan Hypermarket #20,5.540721192175947e-06
+categorical__brand_PurePlus,5.216986656573516e-06
+categorical__category_Home & Kitchen,4.7311810665942066e-06
+categorical__category_Beverages,4.4964119838284065e-06
+categorical__brand_NutriPlus,4.435106115116963e-06
+categorical__category_Apparel & Footwear,4.331519855801176e-06
+categorical__category_Grocery,4.320281002918643e-06
+categorical__brand_QuickBite,4.2663501855249795e-06
+categorical__category_Dairy & Bakery,4.248492889699914e-06
+categorical__brand_HealthFirst,3.983538059639449e-06
+categorical__category_Snacks & Confectionery,3.878304161173542e-06
+categorical__brand_ZestyCo,3.762569801252038e-06
+categorical__season_Winter,3.753928906776894e-06
+categorical__city_Sialkot,3.5776070280975023e-06
+categorical__category_Home Care,2.8496084328342126e-06
+categorical__city_Peshawar,2.8045367946462995e-06
+categorical__city_Lahore,2.7784410693356234e-06
+categorical__brand_CityFresh,2.4316874399803934e-06
+categorical__category_Electronics & Accessories,2.3498449563656484e-06
+categorical__city_Rawalpindi,2.297009809618986e-06
+categorical__store_id_ST10,2.240301517072075e-06
+categorical__brand_EliteHome,1.8987217723996428e-06
+categorical__store_id_ST18,1.8837533552801508e-06
+categorical__store_name_Rawalpindi Convenience Store #10,1.7766324812791641e-06
+categorical__store_name_Islamabad Hypermarket #22,1.763744377045835e-06
+categorical__brand_PrimeCare,1.6680817347564523e-06
+categorical__brand_CleanWave,1.5854373112307398e-06
+categorical__brand_SmartBuy,1.5230325435854762e-06
+categorical__brand_MetroBrand,1.4526907820105884e-06
+categorical__store_name_Lahore Convenience Store #16,1.4496089139431188e-06
+categorical__store_name_Peshawar Hypermarket #07,1.4199184241834873e-06
+categorical__brand_FreshFarm,1.3545236984299305e-06
+categorical__brand_NovaFresh,1.3107320198687017e-06
+categorical__store_id_ST09,1.2183066672757651e-06
+categorical__city_Faisalabad,1.1555114542939408e-06
+categorical__store_id_ST07,1.090436278473417e-06
+categorical__store_name_Islamabad Supermarket #11,1.0013658543526504e-06
+categorical__brand_NatureBlend,9.85291672014482e-07
+categorical__store_id_ST22,9.662456558099584e-07
+categorical__store_name_Islamabad Express Store #02,9.51315015312487e-07
+categorical__brand_PureLife,9.363809946634194e-07
+categorical__store_id_ST20,9.331258997131006e-07
+categorical__store_id_ST17,9.173012806573712e-07
+categorical__store_name_Karachi Supermarket #18,9.075087430823743e-07
+numeric__price_lag_1,8.565591293971501e-07
+categorical__store_id_ST28,8.444619468761664e-07
+categorical__store_name_Peshawar Hypermarket #21,8.388708873929227e-07
+categorical__store_id_ST02,8.298697356394185e-07
+categorical__brand_GreenValley,8.224260056111981e-07
+categorical__brand_FamilyChoice,7.561456640888121e-07
+categorical__store_id_ST21,7.295440320324142e-07
+categorical__store_name_Faisalabad Supermarket #17,7.189237963589727e-07
+numeric__expanding_mean,6.748221572760926e-07
+categorical__brand_TrueTaste,6.607693752610571e-07
+categorical__brand_GoldenHarvest,6.292106232094136e-07
+categorical__store_id_ST16,6.249726024644886e-07
+categorical__store_id_ST24,6.095434708532091e-07
+categorical__brand_SoftTouch,6.047188785150527e-07
+categorical__store_name_Sukkur Hypermarket #06,5.868382821661065e-07
+categorical__store_name_Karachi Supermarket #28,5.609515934814623e-07
+categorical__store_name_Multan Hypermarket #30,5.599140863038826e-07
+categorical__brand_CrispKing,5.434031004656361e-07
+categorical__store_id_ST15,5.280607389905254e-07
+categorical__brand_SunriseFoods,5.201609612424407e-07
+categorical__brand_BasicNeeds,5.129561175307369e-07
+categorical__brand_ValueChoice,5.044649370392737e-07
+categorical__store_name_Islamabad Convenience Store #15,5.012544863683955e-07
+categorical__brand_UrbanBite,4.818668253933105e-07
+categorical__store_name_Sukkur Convenience Store #23,4.745687444413948e-07
+categorical__brand_PremiumSelect,4.7040334438236617e-07
+categorical__store_id_ST03,4.5541386918221344e-07
+categorical__store_id_ST26,4.4102737494947277e-07
+categorical__store_name_Karachi Hypermarket #29,4.3708443413757444e-07
+categorical__store_name_Karachi Supermarket #09,4.0467739043998137e-07
+categorical__brand_SparkleClean,4.0460269053344957e-07
+categorical__store_id_ST29,4.0449499003141676e-07
+categorical__brand_EverydayPlus,4.0366952299858834e-07
+categorical__store_name_Hyderabad Convenience Store #12,4.0324701030067644e-07
+numeric__below_reorder_point,4.0012654633459944e-07
+categorical__store_name_Quetta Supermarket #08,3.8735980914883485e-07
+categorical__city_Hyderabad,3.7655420657162133e-07
+categorical__store_id_ST19,3.763056514641288e-07
+categorical__store_id_ST08,3.622575505734627e-07
+categorical__store_id_ST14,2.989720463493087e-07
+categorical__store_id_ST13,2.9260689512123533e-07
+numeric__below_safety_stock,2.810925003562373e-07
+categorical__store_name_Multan Convenience Store #13,2.5842580339290866e-07
+categorical__store_name_Sialkot Supermarket #14,2.445599420172613e-07
+categorical__store_name_Karachi Supermarket #05,2.412494742002526e-07
+categorical__store_id_ST04,2.318617040115934e-07
+categorical__store_name_Gujranwala Convenience Store #24,2.2923276696223729e-07
+categorical__store_type_Express Store,2.2690621970887238e-07
+categorical__store_id_ST06,2.2621961533676053e-07
+categorical__store_id_ST12,2.0855383736863027e-07
+categorical__store_id_ST11,2.0651696296005223e-07
+categorical__store_name_Lahore Convenience Store #26,2.0458376683582217e-07
+categorical__store_id_ST23,1.9190580739262308e-07
+categorical__store_name_Quetta Convenience Store #25,1.8897716471875928e-07
+categorical__store_name_Sialkot Supermarket #03,1.8591027493871475e-07
+categorical__store_name_Multan Supermarket #04,1.8264570462143458e-07
+numeric__stockout_risk_flag,1.6852995113283628e-07
+categorical__store_name_Sialkot Convenience Store #19,1.5993568582621005e-07
+categorical__store_id_ST01,1.5680394875080278e-07
+categorical__store_id_ST05,1.5377373570762046e-07
+categorical__city_Gujranwala,1.374912733161925e-07
+categorical__store_name_Quetta Convenience Store #01,1.3261053166439903e-07
+categorical__store_id_ST27,1.2762548296172926e-07
+categorical__store_id_ST25,9.767443748360217e-08
+categorical__store_id_ST30,7.916907184868778e-08
+categorical__store_name_Rawalpindi Supermarket #27,6.977721864550621e-08
+numeric__stockout_flag,4.096434797770334e-08
+numeric__is_holiday,4.078412223109711e-08
+numeric__promo_lag_7,5.022581437592147e-09
+numeric__rolling_mean_28,1.2476627246007293e-09
+numeric__demand_change_1d,0.0
+numeric__rolling_mean_14,0.0
+numeric__rolling_std_28,0.0
+numeric__demand_ratio_1d_7d,0.0
+numeric__promo_lag_1,0.0
+numeric__rolling_mean_7,0.0
+numeric__rolling_std_14,0.0
+numeric__price_change_pct,0.0
+numeric__price_change,0.0
+numeric__lag_14,0.0
+numeric__year,0.0
+numeric__lag_1,0.0
+numeric__lag_7,0.0
+numeric__lag_28,0.0
+numeric__rolling_std_7,0.0

@@ -1,0 +1,12 @@
+metric,value
+training_rows,31519
+validation_rows,6120
+test_rows,3058
+training_dates,212
+validation_dates,46
+test_dates,46
+best_model,Random Forest
+test_mae,0.14270217833180546
+test_rmse,0.7542675636439048
+test_smape_percent,2.7264198871862257
+test_wape_percent,2.0711118241037547

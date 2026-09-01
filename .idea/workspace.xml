@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8b99a65b-db17-4cc1-b865-995cf35e5043" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/Project_Forsight.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/raw/calendar.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/raw/customer_master.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/raw/inventory_snapshot.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/raw/promotions.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/raw/sales_daily.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/raw/sales_data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/raw/sku_inventory_flags.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/raw/sku_master.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/raw/store_master.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ml_part/01_data_understanding.ipynb.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ml_part/02_data_cleaning.ipynb.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ml_part/03_eda.ipynb.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ml_part/04_feature_engineering.ipynb.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ml_part/05_demand_fiorcasting.ipynb.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ml_part/06_inventory_optimization.ipynb.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ml_part/07_model_evaluation.ipynb.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ml_part/08_dashboard.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0380008487668968" />
+      <entry key="MS500" value="1.9908484219740186" />
+      <entry key="S2" value="3.2394712374084227" />
+      <entry key="S5" value="3.6656161449933253" />
+      <entry key="S10" value="3.8272941965110228" />
+      <entry key="S30" value="3.941157192135742" />
+      <entry key="S60" value="3.970416158869898" />
+      <entry key="M2" value="3.9851672289777555" />
+      <entry key="M5" value="3.994057056440776" />
+      <entry key="M10" value="3.997026886434732" />
+      <entry key="M15" value="3.9980175592561626" />
+      <entry key="M30" value="3.9990085970631273" />
+      <entry key="H1" value="3.9995042528812994" />
+      <entry key="H2" value="3.9997521150269555" />
+      <entry key="H4" value="3.9998760546599126" />
+      <entry key="D1" value="3.999979342046978" />
+      <entry key="W1" value="3.999997048854147" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="0.0" />
+      <entry key="S30" value="0.0" />
+      <entry key="S60" value="0.0" />
+      <entry key="M2" value="0.0" />
+      <entry key="M5" value="0.0" />
+      <entry key="M10" value="0.0" />
+      <entry key="M15" value="0.0" />
+      <entry key="M30" value="0.0" />
+      <entry key="H1" value="0.0" />
+      <entry key="H2" value="0.0" />
+      <entry key="H4" value="0.0" />
+      <entry key="D1" value="0.0" />
+      <entry key="W1" value="0.0" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.9613184919842506" />
+      <entry key="MS500" value="1.8695110486011466" />
+      <entry key="S2" value="3.128689648805277" />
+      <entry key="S5" value="3.6071159628603313" />
+      <entry key="S10" value="3.7951765971098745" />
+      <entry key="S30" value="3.9297598891730625" />
+      <entry key="S60" value="3.9646274780511255" />
+      <entry key="M2" value="3.982250102929917" />
+      <entry key="M5" value="3.992884701488349" />
+      <entry key="M10" value="3.9964397885229643" />
+      <entry key="M15" value="3.9976259558833362" />
+      <entry key="M30" value="3.9988126929382344" />
+      <entry key="H1" value="3.9994062751987305" />
+      <entry key="H2" value="3.9997031197793267" />
+      <entry key="H4" value="3.9998515554343474" />
+      <entry key="D1" value="3.9999752586202386" />
+      <entry key="W1" value="3.9999964655020217" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="3HlfHNCGyv58B6VnQeRcmQUt1IN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.01_data_understanding.ipynb.executor": "Run",
+    "Python.02_data_cleaning.ipynb.executor": "Run",
+    "Python.03_eda.ipynb.executor": "Run",
+    "Python.04_feature_engineering.ipynb.executor": "Run",
+    "Python.05_demand_fiorcasting.ipynb.executor": "Run",
+    "Python.06_inventory_optimization.ipynb.executor": "Run",
+    "Python.07_model_evaluation.ipynb.executor": "Run",
+    "Python.08_dashboard.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.numpy.executor": "Run",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "master",
+    "junie.onboarding.icon.badge.shown": "true",
+    "last_opened_file_path": "C:/Users/ANUBHAB SHARMA/OneDrive/Desktop/Project_Forsight/data/raw",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "to.speed.mode.migration.done": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ANUBHAB SHARMA\OneDrive\Desktop\Project_Forsight\data\raw" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-821f704e66d9-5bd6d13a2a75-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-262.9437.214" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8b99a65b-db17-4cc1-b865-995cf35e5043" name="Changes" comment="" />
+      <created>1786447492897</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1786447492897</updated>
+      <workItem from="1788154543450" duration="27000" />
+      <workItem from="1788168415149" duration="293000" />
+      <workItem from="1788168723452" duration="1039000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Project_Forsight$numpy.coverage" NAME="numpy Coverage Results" MODIFIED="1788169750443" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/AppData/Local/Programs/Python/Python313" />
+  </component>
+</project>

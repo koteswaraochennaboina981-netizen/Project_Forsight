@@ -1,0 +1,11 @@
+metric,value
+rows,40697.0
+columns,68.0
+missing_cells,0.0
+duplicate_rows,0.0
+unique_skus,4352.0
+unique_stores,30.0
+unique_dates,304.0
+target_mean,3.275745140919478
+target_min,0.0
+target_max,80.0

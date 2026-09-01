@@ -1,0 +1,2 @@
+best_model,test_rows,test_MAE,test_RMSE,test_sMAPE_percent,test_WAPE_percent,unique_skus,unique_stores
+Random Forest,3058,0.14270217833180548,0.7542675636439048,2.7264198871862257,2.071111824103755,1268,30
